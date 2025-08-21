@@ -1,6 +1,6 @@
 # Dev Club Store
 
-Este é um projeto de um site de e-commerce fictício desenvolvido para fins de estudo e prática.
+Este é um projeto de um site de e-commerce fictício desenvolvido para fins de estudo e prática baseado nas aulas Dev Club.
 
 ### 💻 Sobre
 
