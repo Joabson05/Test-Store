@@ -2,6 +2,9 @@
 
 Este é um projeto de um site de e-commerce fictício desenvolvido para fins de estudo e prática baseado nas aulas Dev Club.
 
+https://github.com/user-attachments/assets/229ab689-cd6c-4da6-81c9-7a703c11ee50
+
+
 ### 💻 Sobre
 
 Este é uma landing page de um e-commerce de eletrônicos.
